@@ -1,0 +1,5 @@
+					 DATOS GENERALES 
+	 Curso: 	  Introduccion a la programacion		Cod.Curso: 	30849	 Primer Paracial:   35.0
+	 Periodo Lectivo: primer semestre 2021				Grupo: 		1M1-IS	 Segundo Paracial:  35.0
+	 Carrera: 	  INGENIERIA DE SISTEMAS	Cod.Asignatura: S1004	 Sistematicos: 	    30.0
+	 Modalidad: 	  Regular			Cod.Programa:   1004	 Proyecto de Curso: 0.0
